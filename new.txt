@@ -1,2 +1,4 @@
 this is the first line of new document
 this is the second line of new document
+this is the thirs line of the new document
+
